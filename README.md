@@ -1,4 +1,4 @@
-# Python DSA
+# Python-java DSA
 
 My solutions and notes for Striver's A2Z DSA Sheet.
 
@@ -25,7 +25,7 @@ for coding interviews and competitive programming.
 
 ## 🛠️ Language
 
-Python
+Python  , java
 
 ## 📈 Progress
 
